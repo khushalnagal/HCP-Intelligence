@@ -1,0 +1,13 @@
+territory,drug_type,hcp_count,total_claims,sov_pct
+Midwest,generic,108704,21549144,63.04
+Midwest,brand,66113,12636599,36.96
+Northeast,generic,108662,21356742,62.54
+Northeast,brand,66315,12794803,37.46
+Pacific,generic,2887,541612,65.25
+Pacific,brand,1767,288440,34.75
+South,generic,177697,36522103,63.12
+South,brand,109081,21343649,36.88
+Southwest,generic,3703,700713,61.79
+Southwest,brand,2171,433347,38.21
+West,generic,99932,19638902,62.97
+West,brand,60328,11547798,37.03

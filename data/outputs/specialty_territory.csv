@@ -1,0 +1,19 @@
+territory,specialty,hcp_count,total_claims,avg_rfm
+Midwest,Internal Medicine,23546,6710533,2.651
+Midwest,Cardiology,21198,5945214,2.645
+Midwest,Endocrinology,15100,4125084,2.648
+Northeast,Internal Medicine,23576,6618129,2.653
+Northeast,Cardiology,21122,5965453,2.657
+Northeast,Endocrinology,15451,4325023,2.654
+Pacific,Internal Medicine,632,162472,2.604
+Pacific,Cardiology,553,141579,2.587
+Pacific,Endocrinology,372,98758,2.605
+South,Internal Medicine,39841,11298974,2.652
+South,Cardiology,36000,10089057,2.646
+South,Endocrinology,26252,7363035,2.643
+Southwest,Internal Medicine,753,229029,2.672
+Southwest,Cardiology,668,183940,2.668
+Southwest,Endocrinology,512,141888,2.605
+West,Internal Medicine,21477,6039163,2.654
+West,Cardiology,19408,5465333,2.651
+West,Endocrinology,13945,3853775,2.65

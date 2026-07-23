@@ -1,0 +1,23 @@
+# Data files - too large for GitHub
+data/raw/
+data/processed/
+*.parquet
+*.db
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Debug files
+error_log.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+data/outputs/hcp_full_export.csv
+data/outputs/hcp_annual_trend.csv

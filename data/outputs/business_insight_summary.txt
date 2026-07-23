@@ -1,0 +1,36 @@
+PHARMA HCP PRESCRIBER INTELLIGENCE - BUSINESS INSIGHT SUMMARY
+======================================================================
+
+OVERVIEW
+This analysis segments 569,119 cardiovascular prescribers from
+857,756 cleaned Medicare Part D records to identify high-priority
+sales targets across 6 territories.
+
+DATASET
+  Raw records ingested   : 1,000,000
+  Records after cleaning : 857,756 (14.2% removed - nulls, suppressed, invalid)
+  Unique HCPs analyzed   : 569,119
+
+SEGMENTATION (KMeans, k=4, silhouette=0.40)
+  High Priority : 199,553 HCPs - $8.5B (71% of spend)
+  Growth        : 67,859 HCPs
+  Maintenance   : 192,350 HCPs
+  Dormant       : 109,357 HCPs
+
+FINDINGS
+  1. Revenue concentration: the High Priority segment (199,553 doctors,
+     35% of the base) accounts for 71% of total spend.
+     Sales effort should concentrate here first.
+
+  2. Within High Priority, 52,888 doctors show a growing prescribing trend
+     and 49,332 show a declining trend. These require different rep actions -
+     accelerate visits for growing accounts, protect relationships for declining ones.
+
+  3. Win-back opportunity: 9,117 dormant high-value doctors represent
+     $115M in realistic recoverable volume, based on a
+     specialty- and recency-adjusted recovery rate (not raw historical volume).
+
+RECOMMENDATION
+  Prioritize territory call plans using the High Priority segment first,
+  layering in trend direction to decide cadence. Route the 9,117 win-back
+  candidates to a separate re-engagement track rather than standard rep visits.

@@ -1,0 +1,121 @@
+territory,segment,rank_in_segment,npi,last_name,first_name,specialty,state,trend,yoy_slope_pct,recency_year,frequency,volume,brand_sov,RFM_score
+South,High Priority,1,1000003824,DR_8180,PATRICIA,Internal Medicine,VA,Single Year,,2022,1907,332398.0,0.0%,4.0
+South,High Priority,2,1000010993,DR_8496,ROBERT,Cardiology,AL,Declining,-104.41,2022,544,84827.0,76.1%,4.0
+South,High Priority,3,1000049190,DR_1009,MARY,Family Practice,VA,Single Year,,2022,1622,217459.0,0.0%,4.0
+South,High Priority,4,1000086981,DR_2481,JAMES,Family Practice,GA,Growing,20.19,2022,414,39573.0,12.8%,4.0
+South,High Priority,5,1000104856,DR_4897,JENNIFER,Endocrinology,TN,Single Year,,2022,607,43724.0,0.0%,4.0
+South,Growth,1,1000223303,DR_2778,MICHAEL,Nurse Practitioner,FL,Single Year,,2020,719,38529.0,0.0%,3.5
+South,Growth,2,1000370630,DR_9845,UNKNOWN,Internal Medicine,FL,Single Year,,2020,755,23206.0,0.0%,3.5
+South,Growth,3,1001588142,DR_6553,MARY,Family Practice,SC,Growing,28.29,2020,1202,61932.0,0.0%,3.5
+South,Growth,4,1003010565,DR_8553,ROBERT,Family Practice,TN,Single Year,,2020,1003,88157.0,0.0%,3.5
+South,Growth,5,1003153360,DR_4531,ROBERT,General Practice,SC,Single Year,,2020,1355,107608.0,0.0%,3.5
+South,Maintenance,1,1147532058,DR_2642,MICHAEL,Endocrinology,TX,Single Year,,2022,55,23571.0,0.0%,2.95
+South,Maintenance,2,1165377927,DR_1071,MICHAEL,Family Practice,GA,Single Year,,2022,58,23923.0,0.0%,2.95
+South,Maintenance,3,1199250688,DR_4121,JAMES,Family Practice,TX,Growing,77.78,2022,54,27917.0,88.9%,2.95
+South,Maintenance,4,1261112831,DR_7186,UNKNOWN,Cardiology,NC,Single Year,,2022,46,22629.0,0.0%,2.95
+South,Maintenance,5,1292324082,DR_2801,LINDA,General Practice,FL,Single Year,,2022,48,29683.0,100.0%,2.95
+South,Dormant,1,1002022825,DR_1035,JAMES,Cardiology,OK,Single Year,,2020,49,8733.0,0.0%,2.05
+South,Dormant,2,1007019452,DR_2616,JOHN,Internal Medicine,TX,Single Year,,2020,14,13640.0,0.0%,2.05
+South,Dormant,3,1011152707,DR_2703,MICHAEL,Family Practice,TX,Single Year,,2020,30,9553.0,100.0%,2.05
+South,Dormant,4,1012259160,DR_7289,PATRICIA,Internal Medicine,TX,Single Year,,2020,27,12710.0,0.0%,2.05
+South,Dormant,5,1022329188,DR_7548,UNKNOWN,Neurology,FL,Single Year,,2020,41,8642.0,100.0%,2.05
+Northeast,High Priority,1,1000043401,DR_9788,UNKNOWN,Family Practice,NJ,Growing,24.47,2022,570,39311.0,0.0%,4.0
+Northeast,High Priority,2,1000044641,DR_8399,MICHAEL,Internal Medicine,NY,Growing,163.14,2022,662,33636.0,0.0%,4.0
+Northeast,High Priority,3,1000052547,DR_1753,MARY,General Practice,MA,Growing,21.33,2022,981,41939.0,67.4%,4.0
+Northeast,High Priority,4,1000136744,DR_8546,LINDA,Family Practice,NJ,Single Year,,2022,541,34887.0,46.2%,4.0
+Northeast,High Priority,5,1000366258,DR_2929,MARY,Physician Assistant,NY,Growing,141.4,2022,1570,366205.0,85.4%,4.0
+Northeast,Growth,1,1000208034,DR_4652,ROBERT,Family Practice,PA,Single Year,,2020,517,30946.0,0.0%,3.5
+Northeast,Growth,2,1000603756,DR_3785,MARY,Family Practice,NJ,Single Year,,2020,4179,930801.0,0.0%,3.5
+Northeast,Growth,3,1000930305,DR_1369,JOHN,Physician Assistant,NY,Single Year,,2020,356,33489.0,0.0%,3.5
+Northeast,Growth,4,1001103871,DR_3923,MARY,Internal Medicine,MD,Single Year,,2020,2990,65488.0,0.0%,3.5
+Northeast,Growth,5,1001286076,DR_3171,JOHN,Endocrinology,PA,Single Year,,2020,6242,390428.0,0.0%,3.5
+Northeast,Maintenance,1,1010832107,DR_2958,MICHAEL,Endocrinology,MA,Growing,145.1,2022,51,26277.0,13.7%,2.95
+Northeast,Maintenance,2,1063506943,DR_9269,MARY,Family Practice,MA,Single Year,,2022,58,30946.0,0.0%,2.95
+Northeast,Maintenance,3,1082506664,DR_8965,LINDA,Internal Medicine,NJ,Single Year,,2022,44,27035.0,0.0%,2.95
+Northeast,Maintenance,4,1123776808,DR_5828,PATRICIA,Geriatric Medicine,NJ,Single Year,,2022,60,30113.0,100.0%,2.95
+Northeast,Maintenance,5,1158552320,DR_6454,MARY,Physician Assistant,NY,Single Year,,2022,47,40053.0,100.0%,2.95
+Northeast,Dormant,1,1002655844,DR_4068,UNKNOWN,Physician Assistant,MA,Single Year,,2020,38,11340.0,0.0%,2.05
+Northeast,Dormant,2,1005590779,DR_5590,JOHN,Family Practice,NJ,Single Year,,2020,53,8732.0,100.0%,2.05
+Northeast,Dormant,3,1006594531,DR_6618,UNKNOWN,General Practice,ME,Single Year,,2020,46,9796.0,0.0%,2.05
+Northeast,Dormant,4,1009615750,DR_6217,JOHN,Family Practice,NY,Single Year,,2020,29,8569.0,100.0%,2.05
+Northeast,Dormant,5,1019625017,DR_5260,UNKNOWN,Internal Medicine,VT,Single Year,,2020,25,13479.0,100.0%,2.05
+Midwest,High Priority,1,1000211597,DR_4531,JOHN,Family Practice,MI,Declining,-62.45,2022,1374,194206.0,0.0%,4.0
+Midwest,High Priority,2,1000334125,DR_1235,JAMES,General Practice,WI,Growing,188.55,2022,594,67209.0,97.1%,4.0
+Midwest,High Priority,3,1000411795,DR_4115,PATRICIA,Endocrinology,MI,Declining,-16.69,2022,809,47635.0,76.9%,4.0
+Midwest,High Priority,4,1000533340,DR_7253,MARY,Nurse Practitioner,OH,Declining,-76.35,2022,1404,49068.0,0.0%,4.0
+Midwest,High Priority,5,1000548635,DR_9772,MICHAEL,Family Practice,IL,Growing,56.47,2022,543,33332.0,76.6%,4.0
+Midwest,Growth,1,1000271425,DR_5801,JAMES,Nurse Practitioner,MN,Single Year,,2020,1105,65959.0,0.0%,3.5
+Midwest,Growth,2,1000789765,DR_2090,LINDA,General Practice,IL,Declining,-106.99,2020,873,29948.0,76.8%,3.5
+Midwest,Growth,3,1001089867,DR_9763,ROBERT,Family Practice,IL,Single Year,,2020,2477,140560.0,0.0%,3.5
+Midwest,Growth,4,1001241640,DR_4670,JOHN,Internal Medicine,MI,Single Year,,2020,620,28691.0,100.0%,3.5
+Midwest,Growth,5,1001717391,DR_5716,UNKNOWN,Internal Medicine,MO,Growing,114.35,2020,864,30456.0,100.0%,3.5
+Midwest,Maintenance,1,1002717192,DR_6248,MARY,Cardiology,IL,Single Year,,2022,36,26984.0,0.0%,2.95
+Midwest,Maintenance,2,1101944536,DR_8702,MICHAEL,Internal Medicine,IN,Single Year,,2022,49,25724.0,100.0%,2.95
+Midwest,Maintenance,3,1128478028,DR_3443,ROBERT,Neurology,IL,Single Year,,2022,45,26275.0,0.0%,2.95
+Midwest,Maintenance,4,1128497279,DR_7652,JAMES,Family Practice,IL,Single Year,,2022,47,33208.0,0.0%,2.95
+Midwest,Maintenance,5,1332617207,DR_2333,UNKNOWN,Family Practice,MI,Single Year,,2022,47,34323.0,0.0%,2.95
+Midwest,Dormant,1,1000847148,DR_4790,JOHN,Internal Medicine,WI,Single Year,,2020,55,9278.0,100.0%,2.05
+Midwest,Dormant,2,1005575981,DR_6523,JENNIFER,Neurology,MN,Single Year,,2020,56,9641.0,100.0%,2.05
+Midwest,Dormant,3,1049164031,DR_6658,UNKNOWN,Endocrinology,WI,Single Year,,2020,62,8808.0,0.0%,2.05
+Midwest,Dormant,4,1058794560,DR_5965,ROBERT,Endocrinology,KS,Single Year,,2020,35,9954.0,0.0%,2.05
+Midwest,Dormant,5,1076013545,DR_8485,MARY,Cardiology,MN,Single Year,,2020,43,12349.0,0.0%,2.05
+West,High Priority,1,1000025631,DR_5882,JAMES,Cardiology,CA,Declining,-11.88,2022,463,45845.0,44.1%,4.0
+West,High Priority,2,1000090287,DR_7379,JAMES,General Practice,CA,Growing,65.58,2022,3439,76814.0,95.8%,4.0
+West,High Priority,3,1000128066,DR_6023,JOHN,Neurology,AZ,Single Year,,2022,775,33105.0,100.0%,4.0
+West,High Priority,4,1000196027,DR_5272,UNKNOWN,Endocrinology,CA,Single Year,,2022,339,46714.0,0.0%,4.0
+West,High Priority,5,1000211791,DR_1236,JAMES,Geriatric Medicine,CA,Single Year,,2022,551,37006.0,47.0%,4.0
+West,Growth,1,1000015830,DR_9690,LINDA,Nurse Practitioner,OR,Single Year,,2020,569,30046.0,0.0%,3.5
+West,Growth,2,1001722918,DR_2845,MARY,Neurology,WA,Single Year,,2020,1013,32921.0,50.3%,3.5
+West,Growth,3,1001890789,DR_6265,UNKNOWN,Family Practice,CA,Single Year,,2020,780,36704.0,95.9%,3.5
+West,Growth,4,1002172435,DR_5374,ROBERT,Cardiology,CA,Single Year,,2020,384,68718.0,90.6%,3.5
+West,Growth,5,1002522586,DR_2740,JAMES,Endocrinology,CA,Single Year,,2020,1096,66377.0,0.0%,3.5
+West,Maintenance,1,1010431369,DR_8049,PATRICIA,Geriatric Medicine,CA,Single Year,,2022,38,23361.0,100.0%,2.95
+West,Maintenance,2,1024189081,DR_2155,JOHN,Internal Medicine,CA,Single Year,,2022,59,29377.0,0.0%,2.95
+West,Maintenance,3,1072356601,DR_5994,UNKNOWN,Cardiology,CA,Single Year,,2022,53,30543.0,100.0%,2.95
+West,Maintenance,4,1149787251,DR_9463,JENNIFER,Internal Medicine,AZ,Single Year,,2022,51,25180.0,100.0%,2.95
+West,Maintenance,5,1153275511,DR_2319,LINDA,Cardiology,CA,Declining,-56.76,2022,37,22410.0,21.6%,2.95
+West,Dormant,1,1017567529,DR_7746,MICHAEL,Cardiology,UT,Single Year,,2020,58,8732.0,100.0%,2.05
+West,Dormant,2,1018094535,DR_2620,MICHAEL,Nephrology,AZ,Single Year,,2020,23,8859.0,100.0%,2.05
+West,Dormant,3,1021060255,DR_3081,UNKNOWN,Geriatric Medicine,CO,Single Year,,2020,36,11080.0,100.0%,2.05
+West,Dormant,4,1025360702,DR_6785,JENNIFER,Family Practice,AZ,Single Year,,2020,27,11735.0,0.0%,2.05
+West,Dormant,5,1026793271,DR_6470,ROBERT,Physician Assistant,UT,Stable,-5.13,2020,39,15618.0,51.3%,2.05
+Southwest,High Priority,1,1001422029,DR_8026,UNKNOWN,Internal Medicine,NM,Single Year,,2022,530,50542.0,0.0%,4.0
+Southwest,High Priority,2,1001891593,DR_2788,UNKNOWN,Endocrinology,NM,Single Year,,2022,363,50360.0,47.9%,4.0
+Southwest,High Priority,3,1002222021,DR_4936,JAMES,Nephrology,NM,Declining,-182.51,2022,366,80521.0,4.4%,4.0
+Southwest,High Priority,4,1004738301,DR_6111,JAMES,Cardiology,NM,Declining,-50.44,2022,452,47570.0,0.0%,4.0
+Southwest,High Priority,5,1006133796,DR_1348,MICHAEL,Endocrinology,NM,Growing,25.06,2022,413,32622.0,0.0%,4.0
+Southwest,Growth,1,1018188276,DR_1501,UNKNOWN,Internal Medicine,NM,Declining,-42.46,2020,650,34684.0,0.0%,3.5
+Southwest,Growth,2,1030651950,DR_1644,LINDA,Geriatric Medicine,NM,Single Year,,2020,1687,30502.0,0.0%,3.5
+Southwest,Growth,3,1042625245,DR_1474,LINDA,Internal Medicine,NM,Growing,133.33,2020,690,38828.0,16.7%,3.5
+Southwest,Growth,4,1049133895,DR_7426,JOHN,Cardiology,NM,Single Year,,2020,504,49601.0,100.0%,3.5
+Southwest,Growth,5,1051508570,DR_8488,PATRICIA,Internal Medicine,NM,Single Year,,2020,2004,112723.0,6.0%,3.5
+Southwest,Maintenance,1,1437022683,DR_3082,JENNIFER,Endocrinology,NM,Single Year,,2022,59,49312.0,100.0%,2.95
+Southwest,Maintenance,2,1001522995,DR_6887,MICHAEL,Family Practice,NM,Single Year,,2022,88,11115.0,0.0%,2.9
+Southwest,Maintenance,3,1010161923,DR_6724,PATRICIA,Cardiology,NM,Single Year,,2022,118,21121.0,49.2%,2.9
+Southwest,Maintenance,4,1025538792,DR_4186,ROBERT,Cardiology,NM,Single Year,,2022,93,16815.0,0.0%,2.9
+Southwest,Maintenance,5,1031311487,DR_3915,UNKNOWN,Endocrinology,NM,Growing,28.02,2022,69,10129.0,71.0%,2.9
+Southwest,Dormant,1,1261216543,DR_6645,UNKNOWN,Family Practice,NM,Single Year,,2020,42,18181.0,0.0%,2.05
+Southwest,Dormant,2,1356969227,DR_6888,JAMES,Family Practice,NM,Growing,78.57,2020,56,10641.0,100.0%,2.05
+Southwest,Dormant,3,1466863122,DR_1871,JAMES,Internal Medicine,NM,Single Year,,2020,47,10028.0,0.0%,2.05
+Southwest,Dormant,4,1516796142,DR_1067,UNKNOWN,Family Practice,NM,Single Year,,2020,60,16748.0,100.0%,2.05
+Southwest,Dormant,5,1744190790,DR_3553,JOHN,Cardiology,NM,Single Year,,2020,47,10921.0,0.0%,2.05
+Pacific,High Priority,1,1001595352,DR_8287,JOHN,Cardiology,HI,Single Year,,2022,1046,29823.0,29.7%,4.0
+Pacific,High Priority,2,1001972403,DR_2525,UNKNOWN,Physician Assistant,HI,Single Year,,2022,681,96847.0,100.0%,4.0
+Pacific,High Priority,3,1007377436,DR_1315,LINDA,Internal Medicine,AK,Declining,-183.43,2022,338,34081.0,11.8%,4.0
+Pacific,High Priority,4,1011066821,DR_1538,LINDA,Family Practice,HI,Single Year,,2022,384,29460.0,100.0%,4.0
+Pacific,High Priority,5,1012220207,DR_7667,MARY,Cardiology,HI,Single Year,,2022,512,40447.0,0.0%,4.0
+Pacific,Growth,1,1014972123,DR_7348,PATRICIA,Endocrinology,HI,Single Year,,2020,388,90388.0,93.8%,3.5
+Pacific,Growth,2,1016095534,DR_3364,JOHN,Neurology,AK,Single Year,,2020,615,37586.0,100.0%,3.5
+Pacific,Growth,3,1047288566,DR_5752,JAMES,General Practice,HI,Single Year,,2020,938,80721.0,12.7%,3.5
+Pacific,Growth,4,1051333057,DR_3013,UNKNOWN,Cardiology,HI,Single Year,,2020,491,100555.0,0.0%,3.5
+Pacific,Growth,5,1092641494,DR_9921,UNKNOWN,Family Practice,HI,Single Year,,2020,945,47682.0,100.0%,3.5
+Pacific,Maintenance,1,1016937840,DR_6636,JAMES,Neurology,HI,Single Year,,2022,123,14916.0,100.0%,2.9
+Pacific,Maintenance,2,1017428119,DR_3971,JOHN,Family Practice,AK,Growing,68.0,2022,100,9808.0,67.0%,2.9
+Pacific,Maintenance,3,1021016430,DR_8769,MICHAEL,Geriatric Medicine,AK,Declining,-105.88,2022,85,8885.0,76.5%,2.9
+Pacific,Maintenance,4,1035339345,DR_4044,MICHAEL,Internal Medicine,HI,Growing,115.38,2022,104,14600.0,0.0%,2.9
+Pacific,Maintenance,5,1038164772,DR_4809,JAMES,Cardiology,HI,Single Year,,2022,147,21954.0,0.0%,2.9
+Pacific,Dormant,1,1097916686,DR_3732,UNKNOWN,Geriatric Medicine,HI,Single Year,,2020,43,9649.0,0.0%,2.05
+Pacific,Dormant,2,1434773437,DR_6733,JENNIFER,Nephrology,AK,Single Year,,2020,26,8854.0,0.0%,2.05
+Pacific,Dormant,3,1775494402,DR_2312,MICHAEL,Cardiology,HI,Single Year,,2020,30,8825.0,0.0%,2.05
+Pacific,Dormant,4,1795406824,DR_8984,JENNIFER,Endocrinology,HI,Single Year,,2020,31,8594.0,0.0%,2.05
+Pacific,Dormant,5,1995271419,DR_6174,PATRICIA,Cardiology,HI,Single Year,,2020,27,9740.0,0.0%,2.05

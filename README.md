@@ -1,6 +1,6 @@
 # Pharma HCP Prescriber Intelligence and Targeting System
 
-Replicates the core analytical work done by ZS Associates for pharma clients - identifying which doctors (HCPs) are high-priority targets for a sales rep using Medicare Part D prescribing data.
+identifying which doctors (HCPs) are high-priority targets for a sales rep using Medicare Part D prescribing data.
 
 ## Project Structure
 
